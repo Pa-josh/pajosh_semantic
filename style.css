@@ -1,0 +1,51 @@
+ body{
+    background-color: aquamarine;
+    
+    padding: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+header{
+    background-color: rgb(240, 248, 255);
+    border-radius: 10px;
+    height: 180px;
+    text-align:center;
+width:85vw;
+}
+img{
+    border-radius: px;
+    height: 65vh;
+    width: 85vw;
+    border-radius: 15px;
+}
+
+    
+    
+     
+     
+
+.container{
+    width: 155vw;
+    max-width: 600px;
+    
+    margin-left: 10px;
+
+}
+.btn{
+    background-color: #2C3E50;
+    color: #fff;
+    height: 50px;
+    width: 100vw;
+    padding-top: 25px;
+    margin: -20px -17px;
+    margin-top: 14px;
+
+    padding-bottom: 0px;
+    
+}
+.btn{
+    text-align: center;
+    background-size: auto;
+    position: relative;
+}
+    
